@@ -57,6 +57,7 @@
 | 3 | 10'000 - 14'000 lbs |
 
 ### Digit 9 Checksum
+No implementation found, anyone?
 
 ### Digit 10 Vintage
 | Code        | Model year      |
@@ -76,12 +77,10 @@
 | 4 | 2004 |
 | 6 | 2006 |
 
-
 ### Digit 11 Production Plant
 | Code        | Classification      |
 | ----------- | ----------- |
 | E | Mishawaka, Indiana |
 
-
 ### Digit 12-17 Sequentially Assigned Serial Number
-
+As pr observation 7 digits appears to be standard length.
