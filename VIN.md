@@ -85,5 +85,12 @@ No implementation found, anyone?
 | ----------- | ----------- |
 | E | Mishawaka, Indiana |
 
+Probably:
+AM General,
+13200 McKinley Hwy,
+Mishawaka,
+IN 46545,
+United States
+
 ### Digit 12-17 Sequentially Assigned Serial Number
 As pr observation 7 digits appears to be standard length.
