@@ -3,16 +3,19 @@
 ## 137ZA8430ZE0000001
 
 ### Digit 1 Country of Manufacture
-
-1 - United States of America
+| Code        | Country of Manufacture |
+| ----------- | ----------- |
+| 1 | United States of America |
 
 ### Digit 2 Make
-
-3 - AM General
+| Code        | Make        |
+| ----------- | ----------- |
+| 3 | AM General |
 
 ### Digit 3 Vehicle Category
-
-7 Commercial Vehicle
+| Code        | Vehicle Category        |
+| ----------- | ----------- |
+| 7 | Commercial Vehicle |
 
 ### Digit 4 Engine Type
 
