@@ -15,3 +15,5 @@
 |---|---|---|
 | 25 mm, 25 mm | 355 mm, 25 mm | 685 mm, 25 mm |
 | 25 mm, 265 mm | 355 mm, 265 mm | 685 mm, 265 mm |
+
+Legend for table: Width, height
