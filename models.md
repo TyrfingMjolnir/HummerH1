@@ -8,7 +8,7 @@
 | M1097 / M1097A1 | The M1097 and M1097A1 are heavy-duty variants of the HMMWV, used for transport of personnel and equipment in challenging terrain. They can be configured with a variety of weapons and communications systems. |
 | M1123 / M1123A1 | The M1123 and M1123A1 are improved versions of the M998, with enhanced armor protection and improved suspension and braking systems. They are used for a variety of roles, including troop transport and reconnaissance. |
 | M1151 / M1152 | The M1151 and M1152 are up-armored variants of the HMMWV, designed for use in combat zones with improved protection against mines and roadside bombs. | [PDF](https://www.amgeneral.com/wp-content/uploads/2019/12/M1151.pdf) |
-| M1167 | 13 100 lbs aka 6000 Kg |
+| M1167 | 13 100 lbs aka 6000 Kg | [PDF](https://www.amgeneral.com/wp-content/uploads/2019/12/M1167.pdf) |
 
 # Trailer
 | Model | Purpose |
