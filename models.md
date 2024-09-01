@@ -1,6 +1,7 @@
 # HMMWV, pronounced Humvee
 | Model | Purpose | PDF |
 |--- | --- | --- |
+| M997 | Ambulance | [PDF](https://www.amgeneral.com/wp-content/uploads/2019/12/M997A3-Ambulance.pdf) |
 | M998 | The M998 is the most common and basic version of the HMMWV, used for general purpose transport and personnel carrier. It can be configured with a variety of weapons systems, including machine guns and grenade launchers. |
 | M1025 / M1026 | The M1025 and M1026 are armed versions of the HMMWV, used for reconnaissance and security missions. They are equipped with a turret-mounted machine gun and can carry up to four personnel. |
 | M1035 / M1036 | The M1035 and M1036 are variants of the HMMWV that are designed for use as utility vehicles, with a rear cargo area and a towing capability. They are often used for logistics and supply missions. |
