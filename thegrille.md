@@ -17,3 +17,5 @@
 | 25 mm, 265 mm | 355 mm, 265 mm | 685 mm, 265 mm |
 
 Legend for table: Width, height
+
+[A preliminary drawing mimmicking a NASA-invention for better air stream](grilleFlathodetFresest%C3%A5l.blend) in [Blender](https://blender.org) format.
