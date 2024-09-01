@@ -22,7 +22,7 @@
 | H1 Alpha | m1xxx w/ A/C and nicer dash / interior for civil use |
 
 ## By body type
-### Digit 6-7 Body type
+### Digit 6-7 Body type of VIN
 | Code        | Pax      | Body        | 4 letter word |
 | ----------- | ----------- | ----------- | ----------- |
 | 56 | 4 | Hard Top K Series / Industrial | KSC4 |
