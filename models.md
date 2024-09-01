@@ -15,7 +15,26 @@
 | m1101 | Same size tires as a military HMMWV to stay in fashion. |
 
 # Civil
+## By engine
 | Model | Purpose |
 |----|---|
 | H1 | m998 w/ A/C and nicer dash / interior for civil use |
 | H1 Alpha | m1xxx w/ A/C and nicer dash / interior for civil use |
+
+## By body type
+### Digit 6-7 Body type
+| Code        | Pax      | Body        | 4 letter word |
+| ----------- | ----------- | ----------- | ----------- |
+| 56 | 4 | Hard Top K Series / Industrial | KSC4 |
+| 57 | 4 | Wagon K Series / Industrial | KMC5 |
+| 82 | 2 | Hard Top | HMC2 |
+| 83 | 4 | Hard Top | HMC4, KSC4 |
+| 84 | 4 | Wagon | HMCS, HMDS |
+| 85 | 4 | Open Top | HMCO, HMDS |
+| 86 | 2 | Fleet / Industrial | HMCF |
+| 87 | 2 | Standard Cab Value Leader( Recruit ) | VLC2 |
+| 88 | 4 | Open Top Value Leader( Half Door) | VLCO |
+| 89 | 2 | Enlarged Cab | XLC2, KSC2 |
+| 90 | 2 | Soft Top with Full Hard Doors | HMC2 |
+| 90 | 4 | Open Top with Full Hard Doors | HMCO |
+| 91 | 4 | Slant Back | HMSB |
