@@ -8,3 +8,9 @@ Such as [the VIN decoding chart](VIN.md).
 The grille and its [dimensions](thegrille.md).
 
 Vehicle [models](models.md).
+
+The gist of it:
+
+* 10K = 6.5 TD or smaller engine
+* 10K and 12K = 6.6 Duramax or similar engine
+* 15K = Uparmour
