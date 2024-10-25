@@ -12,5 +12,5 @@ Vehicle [models](models.md).
 The gist of it:
 
 * 10K = 6.5 TD or smaller engine
-* 10K and 12K = 6.6 Duramax or similar engine
+* 10K and 12K = 6.6 Duramax or similar engine such as Cummins
 * 15K = Uparmour
