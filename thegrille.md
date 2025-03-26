@@ -15,7 +15,8 @@
 |---|---|---|
 | 25 mm, 25 mm | 355 mm, 25 mm | 685 mm, 25 mm |
 | 25 mm, 265 mm | 355 mm, 265 mm | 685 mm, 265 mm |
-
 Legend for table: Width, height
+
+Considered material sea worthy aluminium; such as A56, or other AluCl
 
 [A preliminary drawing mimmicking a NASA-invention for better air stream](grilleFlathodetFresest%C3%A5l.blend) in [Blender](https://blender.org) format.
