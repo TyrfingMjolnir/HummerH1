@@ -22,3 +22,4 @@ Considered material sea worthy aluminium; such as A56, or other AluCl
 [A preliminary drawing mimmicking a NASA-invention for better air stream](grilleFlathodetFresest%C3%A5l.blend) in [Blender](https://blender.org) format.
 
 Based in part on [Prior art](https://www.apple.com/v/mac-pro/q/images/overview/rack_front__e4qdy065o82u_large_2x.jpg)
+Based in part on [Prior art](./PriorArt.jpg)
